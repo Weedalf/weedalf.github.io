@@ -1,8 +1,13 @@
-.pageTitleWithDefaultLogo {
-    background-image: url(https://weedalf.github.io/images/banner-light.png);
-}
+.imgLogoIcon {
+  content: url(https://weedalf.github.io/images/banner-light.png) !important; }
 
+/* Main Drawer Mobile */
+.adminDrawerLogo img {
+  content: url(https://weedalf.github.io/images/banner-light.png) !important; }
 
+/* Home Page */
+.pageTitleWithLogo {
+  background-image: url(https://weedalf.github.io/images/banner-light.png) !important; }
 
 /*cardbox border-radius change*/
 #indexPage button.cardImageContainer.cardContent.itemAction.lazy.blurhashed.lazy-image-fadein-fast,
