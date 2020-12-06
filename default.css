@@ -10,12 +10,11 @@
   background-image: url(https://weedalf.github.io/images/banner-light.png) !important; }
 
 .splashLogo {
-  background-image: url(https://weedalf.github.io/images/logo.png) !important; 
-}
+  background-image: url(https://weedalf.github.io/images/logo.png) !important; }
 
 @media screen and (-webkit-min-device-pixel-ratio: 1) and (min-device-width: 992px){
-  .splashLogo {
-       background-image: url(https://weedalf.github.io/images/logo.png) !important;}}
+.splashLogo {
+  background-image: url(https://weedalf.github.io/images/logo.png) !important; }}
 
 /*cardbox border-radius change*/
 #indexPage button.cardImageContainer.cardContent.itemAction.lazy.blurhashed.lazy-image-fadein-fast,
