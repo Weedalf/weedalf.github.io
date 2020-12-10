@@ -364,6 +364,11 @@ div#itemBackdrop {
 .smallBackdropCard, .squareCard {
     width: 50% !important;
 }
+
+.squareCard
+{
+  width: 25%!important;
+}
 /*Progress Bar*/
 .emby-checkbox:checked+span+.checkboxOutline {
     background-color: #008020 !important;
