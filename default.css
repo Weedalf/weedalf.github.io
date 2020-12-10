@@ -338,9 +338,11 @@ div#itemBackdrop {
     width: 50% !important;
 }
 @media (min-width: 100em)
-.squareCard {
-    width: 50% !important;
+.dashboardDocument .squareCard
+{
+  width: 25%!important;
 }
+
 @media (min-width: 87.5em)
 .squareCard {
     width: 50% !important;
@@ -365,10 +367,7 @@ div#itemBackdrop {
     width: 50% !important;
 }
 
-.squareCard
-{
-  width: 25%!important;
-}
+
 /*Progress Bar*/
 .emby-checkbox:checked+span+.checkboxOutline {
     background-color: #008020 !important;
