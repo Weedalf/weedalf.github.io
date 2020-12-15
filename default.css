@@ -192,8 +192,6 @@ div#itemBackdrop {
           height: 2.5em;
    }
    .cardText-first {
-           margin-top: -2.8em;
-           margin-bottom: 4.969em;
            z-index: 999999;
    }
 }
